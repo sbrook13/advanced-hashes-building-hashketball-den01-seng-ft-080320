@@ -74,7 +74,7 @@ def game_hash
       },           
       ]  
   },
-    :away => {
+  :away => {
     :team_name => "Charlotte Hornets",
     :colors => [
       "Turquoise",
@@ -89,7 +89,9 @@ def game_hash
         :assists => 1,
         :steals => 2, 
         :blocks => 7,
-        :slam_dunks => 2},
+        :slam_dunks => 2
+        
+      },
       { :player_name => "Bismack Biyombo",
         :number => 0,
         :shoe => 16,
