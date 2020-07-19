@@ -69,11 +69,11 @@ def game_hash
         :slam_dunks => 1},           
       ]  
   },
-    :home => {
-    :team_name => "Brooklyn Nets",
+    :away => {
+    :team_name => "Charlotte Hornets",
     :colors => [
-      "Black",
-      "White"
+      "Turquoise",
+      "Purple"
       ],
     :players => [
       { :player_name => "Alan Anerson",
