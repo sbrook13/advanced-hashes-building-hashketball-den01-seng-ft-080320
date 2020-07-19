@@ -30,7 +30,8 @@ def game_hash
         :assists => 12,
         :steals => 3, 
         :blocks => 1,
-        :slam_dunks => 1},
+        :slam_dunks => 1
+      },
       { :player_name => "Reggie Evans",
         :number => 30,
         :shoe => 14,
@@ -39,7 +40,8 @@ def game_hash
         :assists => 12,
         :steals => 12, 
         :blocks => 12,
-        :slam_dunks => 7},
+        :slam_dunks => 7
+      },
       { :player_name => "Brook Lopez",
         :number => 11,
         :shoe => 17,
@@ -48,7 +50,8 @@ def game_hash
         :assists => 10,
         :steals => 3, 
         :blocks => 1,
-        :slam_dunks => 15},
+        :slam_dunks => 15
+      },
       { :player_name => "Mason Plumlee",
         :number => 1,
         :shoe => 19,
@@ -57,7 +60,8 @@ def game_hash
         :assists => 6,
         :steals => 3, 
         :blocks => 8,
-        :slam_dunks => 5},    
+        :slam_dunks => 5
+      },    
       { :player_name => "Jason Terry",
         :number => 31,
         :shoe => 15,
@@ -66,7 +70,9 @@ def game_hash
         :assists => 2,
         :steals => 4, 
         :blocks => 11,
-        :slam_dunks => 1},           
+        :slam_dunks => 1
+        
+      },           
       ]  
   },
     :away => {
@@ -112,14 +118,14 @@ def game_hash
         :steals => 1, 
         :blocks => 1,
         :slam_dunks => 0},    
-      { :player_name => "Jason Terry",
-        :number => 31,
+      { :player_name => "Kemba Walker",
+        :number => 33,
         :shoe => 15,
-        :points => 19,
-        :rebounds => 2,
-        :assists => 2,
-        :steals => 4, 
-        :blocks => 11,
-        :slam_dunks => 1},           
+        :points => 6,
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 7, 
+        :blocks => 5,
+        :slam_dunks => 12},           
       ]  
   }
